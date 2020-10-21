@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewContries</string>
+    <string name="capital">Capital:</string>
+    <string name="poblacion">Poblacion:</string>
+</resources>
